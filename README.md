@@ -19,7 +19,7 @@
 
 [-] list item three 
 
-
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 - [x] page online
 - [ ] add new content
@@ -36,12 +36,14 @@ Reference-style:
 
 | table         | code          | presents |
 | ------------- |:-------------:| --------:|
-| col 1         | col 2         |       $3 |
-| col 1         | col 2         |       $3 |
-| col 1         | col 2         |       $3 |
+| col 1         | col 2         |       $% |
+| col 1         | col 2         |       $% |
+| col 1         | col 2         |       $% |
 
 
 ---
 
 [![one minute push one](https://img.youtube.com/)](https://www.youtube.com/watch?v=QUldxN4S1UY)
+
+
 
