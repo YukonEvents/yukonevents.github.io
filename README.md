@@ -12,6 +12,6 @@
 | **area**         | whitehorse yukon     | 
 | **link**         | [url address](http://bit.ly/_edit_code) |
 
-map  [![map image](http://bit.ly/_map_jpg)](http://bit.ly/_edit_code) 
+[![map image](http://bit.ly/_map_jpg)](http://bit.ly/_edit_code) 
 
 ---
