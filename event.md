@@ -1,7 +1,10 @@
-# create an event page
+create an event page
 
-[![profile logo](http://bit.ly/-logo-jpg)](https://www.facebook.com/YukonEvents/)
+# name of event
 
+[![event photo](http://bit.ly/-logo-jpg)](https://www.facebook.com/YukonEvents/)
+
+-
 ## contribute to this project at [https://github.com/YukonEvents](https://github.com/YukonEvents/yukonevents.github.io)
 
 ### [https://help.github.com/en/articles/basic-writing-and-formatting-syntax]
