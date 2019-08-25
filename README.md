@@ -1,7 +1,7 @@
 ---
 
 # create an event page 
-| [![event photo](http://bit.ly/_logo_jpg)](http://bit.ly/_edit_code) |
+[![event photo](http://bit.ly/_logo_jpg)](http://bit.ly/_edit_code)
 
 | **event**         | **information**          |
 | --- | ---| 
