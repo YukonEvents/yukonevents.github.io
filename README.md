@@ -10,6 +10,7 @@
 | **date**         | august 25, 2019         |
 | **area**         | whitehorse yukon         | 
 | **link**         | [url address](http://bit.ly/_edit_code)         |
-| map | [![map photo](http://bit.ly/_map_jpg)](http://bit.ly/_edit_code) |
+
+map  [![map photo](http://bit.ly/_map_jpg)](http://bit.ly/_edit_code) 
 
 ---
