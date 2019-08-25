@@ -1,3 +1,5 @@
+[![image alt text](https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/48269257_2159102764154388_339179683398549504_n.jpg?_nc_cat=107&_nc_oc=AQm7OTUJgU3fNP-Gev7NMGKxsT-Ca8_UEvyeWFiXCrSTKcwy5rS68RZmWEGBEasip-A&_nc_ht=scontent.fybz2-2.fna&oh=fba91fe7350dfa7711513071ac9b0ca2&oe=5E079968)](https://www.facebook.com/YukonEvents/)
+
 # yukonevents.github.io
 
 ## contribute to this project at [https://github.com/YukonEvents](https://github.com/YukonEvents)
@@ -45,7 +47,4 @@ Reference-style:
 
 [![image alt text](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=QUldxN4S1UY)
 
-```python
-s = "Python syntax highlighting"
-print s
-```
+
