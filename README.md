@@ -47,5 +47,5 @@ Reference-style:
 
 ```python
 s = "Python syntax highlighting"
-print Yukon
+print s
 ```
