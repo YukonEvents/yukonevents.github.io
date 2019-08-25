@@ -1,17 +1,15 @@
-create an event page
-
-# name of event
+# create an event page
 
 [![event photo](http://bit.ly/_logo_jpg)](http://netads.github.io)
 
 
-| event information         | code          |  |
-| ------------- |:-------------:| --------:|
-| name         | 12:00 post meridiem         |        |
-| time         | 12:00 post meridiem         |        |
-| date         | august 25, 2019         |        |
-| area         | miles canyon         |        |
-| link         | miles canyon         |       |
+| | event information         |           |  | 
+| | ------------- |:-------------:| --------:|
+| | name         | how to code         |        |
+| | time         | 12:00 post meridiem         |        |
+| | date         | august 25, 2019         |        |
+| | area         | miles canyon         |        |
+| | link         |          |       |
 
 
 
