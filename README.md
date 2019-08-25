@@ -5,19 +5,19 @@
 ### [https://help.github.com/en/articles/basic-writing-and-formatting-syntax]
 (https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-[#] heading
+/# heading
 
-[##] sub heading
+/## sub heading
 
-[###] etc.
+/### etc.
 
 "You can create a new paragraph by leaving a blank line between lines of text."
 
-[-] list item one 
+/- list item one 
 
-[-] list item two 
+/- list item two 
 
-[-] list item three 
+/- list item three 
 
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
