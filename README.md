@@ -38,7 +38,7 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 ---
 
-[![video](https://en.wikipedia.org/wiki/File:YouTube_Logo_2017.svg)](https://www.youtube.com/watch?v=QUldxN4S1UY)
+[![video](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/512px-YouTube_Logo_2017.svg.png)](https://www.youtube.com/watch?v=QUldxN4S1UY)
 
 
 
