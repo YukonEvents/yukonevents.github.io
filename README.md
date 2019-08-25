@@ -25,14 +25,9 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 - [ ] add new content
 - [ ] networking
 
-Here's a logo 
-
-hover to see the title text
-
-Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text"
+[logo]: http://bit.ly/_logo_jpg "Logo Title Text"
 
 | table         | code          | presents |
 | ------------- |:-------------:| --------:|
