@@ -38,7 +38,7 @@ https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 ---
 
-[![one minute push one](https://img.youtube.com/)](https://www.youtube.com/watch?v=QUldxN4S1UY)
+[![video](https://en.wikipedia.org/wiki/File:YouTube_Logo_2017.svg)](https://www.youtube.com/watch?v=QUldxN4S1UY)
 
 
 
