@@ -6,11 +6,11 @@ create an event page
 
 
 
-| event information|
-| ------------- |:-------------:| 
-| time         | 12:00 post meridiem      |
-| date         | august 25, 2019        |
-| area         | miles canyon         |
+| event information|  |
+| ------------- |:-------------:| |
+| time         | 12:00 post meridiem      | |
+| date         | august 25, 2019        | |
+| area         | miles canyon         | |
 
 | a         | col 2         |
 - 
