@@ -2,7 +2,7 @@
 # create an event page
 [![event photo](http://bit.ly/_logo_jpg)](http://netads.github.io)
 
-| **event**         | information          |
+| **event**         | **information**          |
 | ------------- |:-------------:| 
 | **name**         | how to code         | 
 | **time**         | 12:00 post meridiem         | 
