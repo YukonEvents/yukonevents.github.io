@@ -1,5 +1,4 @@
 ---
-
 # create an event page 
 [![event photo](http://bit.ly/_logo_jpg)](http://bit.ly/_edit_code)
 
@@ -12,5 +11,4 @@
 | **link**         | [url address](http://bit.ly/_edit_code)         |
 
 map  [![map photo](http://bit.ly/_map_jpg)](http://bit.ly/_edit_code) 
-
 ---
