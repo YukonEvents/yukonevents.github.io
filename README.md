@@ -5,6 +5,13 @@ create an event page
 [![event photo](http://bit.ly/_logo_jpg)](http://netads.github.io)
 
 
+| event information         | code          | presents |
+| ------------- |:-------------:| --------:|
+| time         | 12:00 post meridiem         |       $3 |
+| date         | august 25, 2019         |       $3 |
+| area         | miles canyon         |       $3 |
+
+
 
 | event information|  |
 | ------------- |:-------------:| |
