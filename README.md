@@ -39,3 +39,11 @@ Reference-style:
 | col 1         | col 2         |       $3 |
 | col 1         | col 2         |       $3 |
 | col 1         | col 2         |       $3 |
+
+
+---
+
+
+<a href="https://www.youtube.com/watch?v=QUldxN4S1UY" target="_blank">
+<img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
+alt="image alt text" width="240" height="180" border="10" /></a>
