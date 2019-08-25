@@ -2,7 +2,23 @@ create an event page
 
 # name of event
 
-[![event photo](http://bit.ly/-logo-jpg)](https://www.facebook.com/YukonEvents/)
+[![event photo](http://bit.ly/_logo_jpg)](http://netads.github.io)
+
+
+
+| event information|
+| ------------- |:-------------:| 
+| time         | 12:00 post meridiem      |
+| date         | august 25, 2019        |
+| area         | miles canyon         |
+
+| a         | col 2         |
+- 
+- 
+-
+
+
+
 
 -
 ## contribute to this project at [https://github.com/YukonEvents](https://github.com/YukonEvents/yukonevents.github.io)
