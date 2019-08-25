@@ -1,3 +1,7 @@
+# setting up a jekyll theme
+- https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser
+- https://jekyllrb.com/docs/step-by-step/01-setup/
+
 # [sponsor button](https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository)
 
 ## contribute to this project at [https://github.com/YukonEvents](https://github.com/YukonEvents/yukonevents.github.io)
