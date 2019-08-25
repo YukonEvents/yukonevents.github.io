@@ -12,6 +12,6 @@
 | **area**         | miles canyon         | 
 | **link**         | [url address](http://bit.ly/_edit_code) |
 
-[![map](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/World_Map_1689.JPG/500px-World_Map_1689.JPG)](http://bit.ly/_edit_code) 
+[![map](https://lh4.googleusercontent.com/74nCYBdXGMcfPC65rjjbRJVbP4h5uyr3v9XNYa9F3z0YvhZfVaoSNNe7IKmEA8uJQk76VUhTFw=w371)](http://bit.ly/_edit_code) 
 
 ---
