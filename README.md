@@ -45,4 +45,7 @@ Reference-style:
 
 [![image alt text](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=QUldxN4S1UY)
 
-
+```python
+s = "Python syntax highlighting"
+print Yukon
+```
