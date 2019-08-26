@@ -149,7 +149,7 @@
 | 24:00 | 
 
 
-| time |  | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| time | :earth_americas: | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | 00:00 | :clock12: |
 | 01:00 | :clock1: |
