@@ -62,9 +62,9 @@
 
 ---
 
-| time | :earth_americas: | :stars: |
+| time | :tea: | :mount_fuji: |
 | --- | --- | --- | 
-| am | pm | :sunrise: |
+| am | pm | :bike: |
 | 12:00 |  | :clock12: |
 | 01:00 |  | :clock1: |
 | 02:00 |  | :clock2: |
@@ -93,9 +93,9 @@
 
 ---
 
-| time | :earth_americas: | :stars: |
+| time | :tea: | :mount_fuji: |
 | --- | --- | --- | 
-| am | pm | :sunrise_over_mountains: |
+| am | pm | :bike: |
 | 12:00 |  | :clock12: |
 | 12:30 |  | :clock1230: |
 | 01:00 |  | :clock1: |
