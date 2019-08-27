@@ -3,6 +3,8 @@
 
 # shopping
 
+
+
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
 | --- | ---|  ---|  ---|  ---| 
 | **grain** |       
@@ -15,6 +17,8 @@
 | **sweet** |     
 
 ---
+
+
 
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
 | --- | ---|  ---|  ---|  ---| 
@@ -29,6 +33,8 @@
 
 ---
 
+
+
 | :sunrise: | **item** | **volume** | **weight** | **nutrition** | **price**     |
 | --- | --- | ---|  ---|  ---|  ---| 
 | :rice: | **grain**         |       |       |       |       | 
@@ -41,6 +47,8 @@
 | :maple_leaf: | **sweet**   |       |       |       |       |
 
 ---
+
+
 
 http://bit.ly/_edit_code
 
