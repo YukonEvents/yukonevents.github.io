@@ -120,10 +120,6 @@
 
 ---
 
-  |  |  |  |  |  |  |
-  
-  ---
-
 | time | :earth_americas: | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 00:00 | :clock12: |
