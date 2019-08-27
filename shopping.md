@@ -5,6 +5,7 @@
 
 <br />
 <br />
+<br />
 
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
 | --- | ---|  ---|  ---|  ---| 
@@ -18,6 +19,7 @@
 | **sweet** |     
 
 ---
+<br />
 <br />
 <br />
 
@@ -35,6 +37,7 @@
 ---
 <br />
 <br />
+<br />
 
 | :sunrise: | **item** | **volume** | **weight** | **nutrition** | **price**     |
 | --- | --- | ---|  ---|  ---|  ---| 
@@ -48,6 +51,7 @@
 | :maple_leaf: | **sweet**   |       |       |       |       |
 
 ---
+<br />
 <br />
 <br />
 
