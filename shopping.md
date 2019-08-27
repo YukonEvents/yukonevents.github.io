@@ -1,4 +1,6 @@
 ---
+---
+---
 
 # shopping
 
@@ -13,6 +15,9 @@
 | **nut**           |       |       |       |       |
 | **seed**          |       |       |       |       |
 
+---
+---
+---
 
 | :sunrise: | **item** | **volume** | **weight** | **nutrition** | **price**     |
 | --- | --- | ---|  ---|  ---|  ---| 
@@ -25,5 +30,8 @@
 | :apple: | **fruit**        |       |       |       |       |
 | :maple_leaf: | **sweet**   |       |       |       |       |
 
+---
+---
+---
 
 http://bit.ly/_edit_code
