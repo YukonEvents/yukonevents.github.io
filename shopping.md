@@ -1,9 +1,18 @@
-
 ---
 ---
 
 # shopping
 
+| **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
+| --- | ---|  ---|  ---|  ---| 
+| **grain** |       
+| **bean**  |       
+| **green** |     
+| **root**  |       
+| **nut**   |    
+| **seed**  |       
+| **fruit** |      
+| **sweet** |     
 
 
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
@@ -14,6 +23,8 @@
 | **root**          |       |       |       |       |
 | **nut**           |       |       |       |       |
 | **seed**          |       |       |       |       |
+| **fruit**         |       |       |       |       |
+| **sweet**         |       |       |       |       |
 
 ---
 ---
