@@ -2,7 +2,7 @@
 
 # shopping
 
-[![event photo](http://bit.ly/_logo_jpg)](http://bit.ly/_edit_code)
+
 
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
 | --- | ---|  ---|  ---|  ---| 
@@ -26,3 +26,4 @@
 | :maple_leaf: | **sweet**   |       |       |       |       |
 
 
+http://bit.ly/_edit_code
