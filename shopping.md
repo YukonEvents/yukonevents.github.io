@@ -3,7 +3,7 @@
 
 # shopping
 
-\
+<br />
 
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
 | --- | ---|  ---|  ---|  ---| 
@@ -17,8 +17,7 @@
 | **sweet** |     
 
 ---
-\
-\
+<br />
 
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
 | --- | ---|  ---|  ---|  ---| 
@@ -32,8 +31,7 @@
 | **sweet**         |       |       |       |       |
 
 ---
-\
-\
+<br />
 
 | :sunrise: | **item** | **volume** | **weight** | **nutrition** | **price**     |
 | --- | --- | ---|  ---|  ---|  ---| 
@@ -47,8 +45,7 @@
 | :maple_leaf: | **sweet**   |       |       |       |       |
 
 ---
-\
-\
+<br />
 
 http://bit.ly/_edit_code
 
