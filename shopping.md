@@ -1,5 +1,3 @@
-<center>
-
 ---
 ---
 
@@ -61,5 +59,3 @@ http://bit.ly/_edit_code
 
 ---
 ---
-
-</center>
