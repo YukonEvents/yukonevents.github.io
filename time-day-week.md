@@ -2,7 +2,7 @@
 
 | time | :earth_americas: | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 00:00 | :clock12: | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| 00:00 | :clock12: |  
 | 01:00 | :clock1: |
 | 02:00 | :clock2: |
 | 03:00 | :clock3: |
