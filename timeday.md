@@ -62,7 +62,7 @@
 
 ---
 
-| time | :earth_americas: |
+| time | :earth_americas: | |
 | --- | --- | --- | 
 | am | pm | :sunrise_over_mountains: |
 | 12:00 |  | :clock12: |
@@ -93,7 +93,7 @@
 
 ---
 
-| time | :earth_americas: |
+| time | :earth_americas: | |
 | --- | --- | --- | 
 | am | pm | :sunrise_over_mountains: |
 | 12:00 |  | :clock12: |
