@@ -1,6 +1,9 @@
 
 ---
 
+<br />
+<br />
+
 # September
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | 
@@ -12,6 +15,9 @@
 | 29 | 30 |  |  |  |  |  |
 
 ---
+
+<br />
+<br />
 
 # October
 
@@ -25,6 +31,9 @@
 
 ---
 
+<br />
+<br />
+
 # November
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | 
@@ -36,6 +45,9 @@
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 
 ---
+
+<br />
+<br />
 
 # December
 
