@@ -147,3 +147,17 @@
 | 22:00 | :clock10: |
 | 23:00 | :clock11: |
 | 24:00 | :clock12: |
+
+---
+
+| week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+| :one: |
+| :two: |
+| :three: |
+| :four: |
+| :five: |
+| :six: |
+
+
+---
