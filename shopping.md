@@ -14,6 +14,7 @@
 | **fruit** |      
 | **sweet** |     
 
+---
 
 | **item**         | **volume**     | **weight**     | **nutrition**     | **price**     |
 | --- | ---|  ---|  ---|  ---| 
@@ -27,7 +28,6 @@
 | **sweet**         |       |       |       |       |
 
 ---
----
 
 | :sunrise: | **item** | **volume** | **weight** | **nutrition** | **price**     |
 | --- | --- | ---|  ---|  ---|  ---| 
@@ -40,7 +40,6 @@
 | :apple: | **fruit**        |       |       |       |       |
 | :maple_leaf: | **sweet**   |       |       |       |       |
 
----
 ---
 
 http://bit.ly/_edit_code
